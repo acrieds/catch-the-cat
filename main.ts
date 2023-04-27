@@ -578,7 +578,8 @@ Hops_and_Paw = sprites.create(img`
     `, SpriteKind.Player)
 controller.moveSprite(Hops_and_Paw, 80, 0)
 startLevel()
-game.splash("Level...", "")
+info.setLife(9)
+game.splash("Level...")
 game.splash(current_level)
 game.onUpdate(function () {
     if (Hops_and_Paw.vy < 0) {
