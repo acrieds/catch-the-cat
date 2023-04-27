@@ -1,7 +1,7 @@
  
 
 
-> Open Catch the Cat at [https://acrieds.github.io/catch-the-cat/](https://acrieds.github.io/catch-the-cat/)
+> Open Catch the Cat at https://arcade.makecode.com/S96881-72727-87360-49338 or [https://acrieds.github.io/catch-the-cat/](https://acrieds.github.io/catch-the-cat/)
 
 ## Use as Extension
 
@@ -11,6 +11,8 @@ This repository can be added as an **extension** in MakeCode.
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/acrieds/catch-the-cat** and import
+
+<div style="position:relative;height:0;padding-bottom:117.6%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/---run?id=S96881-72727-87360-49338" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 
 #### Metadata (used for search, rendering)
